@@ -1,0 +1,15 @@
+Typeface:
+................
+Source Sans Pro 
+
+Colours:
+................
+Accent 
+#4FBDD2 
+
+Background light 
+#F6F6F6
+
+Background dark
+#333333
+

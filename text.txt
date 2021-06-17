@@ -1,0 +1,49 @@
+Homepage:
+.........
+
+Roberta Silva
+Aspiring UX & UI designer from Brazil
+
+My Portfolio
+TfL journey planner layout improvements
+Facebook app user research
+UX Forum Information Architecture
+Google sign-in user journey optimisation
+Style guide of UI components
+Odeon website design review
+
+About me
+I came to the UK from Brazil back in 2016. Having completed Master’s degree in Graphic Design at The University of Nottingham I’ve decided to pursue a career in UX design by taking at design course at The School of UX.
+
+Get in touch
++44 7835 3870585
+mail@robertamariasilva.com
+
+
+
+Project page:
+.............
+
+Back button ❮
+
+TfL journey planner layout improvements
+portfolio project by Roberta Silva
+
+Design review
+The current journey planner page of Transport for London website has all the results beneath the fold on both mobile and desktop.
+My assumption is that it is difficult for users to discover the available travel options.
+
+Wireframing
+I’ve mocked up a variant where I have merged duplicate Journey Results heading within the breadcrumb menu.
+I've also moved Travel and Accessibility Options control next to Edit button – hence making space for a journey result.
+
+A/B Testing
+To validate my design hypothesis I've I’ll be carrying out A/B testing to see which variant performs better.
+I've set up a test using remote usability testing platform, asking a target audience which version of the results page will help them make decision on which route to take quicker.
+
+Design process
+I've adopted this process to have a solid foundation for my work as a designer within different organisations. 
+I’m following the same flow when I’m walking through my case studies in this portfolio.
+
+
+
